@@ -27,6 +27,8 @@
 
 1. Overall, the page is user-friendly and straightforward
 2. A few things that I would recommend to further enhance the webpage are:
-3.  a. Make the filters not be case sensitive
-4.  b. Make it so that the filter also has a dropdown where it would provide what the existing items are for each field (e.g. Enter a State field would have a dropdown listing all the possible states existing in the dataset).
-5.  c. Add a clear button so that filters are reset without having to manually delete the things user typed in each field
+      a. Make the filters not be case sensitive
+      b. Make it so that the filter also has a dropdown where it would provide what the existing items are for each 
+      field (e.g. Enter a State field would have a dropdown listing all the possible states existing in the dataset).
+      c. Add a clear button so that filters are reset without having to manually delete the things user typed in each 
+      field
