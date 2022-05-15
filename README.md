@@ -1,5 +1,5 @@
 # UFOs
-**Overview** Through out the module, we were able to create a webpage about UFO sightings with a basic date filter. For this challenge, we are to modify and enhanced that webpage by providing users a more in-depth analysis by allowing users to filter for multiple criteria at the same time. 
+**Overview**: Through out the module, we were able to create a webpage about UFO sightings with a basic date filter. For this challenge, we are to modify and enhanced that webpage by providing users a more in-depth analysis by allowing users to filter for multiple criteria at the same time. 
 
 ## Requirements
 
@@ -25,7 +25,7 @@
 
 1. Overall, the page is user-friendly and straightforward
 
-2. To note, the filter is case sentive. The data fields are mostly in lower case. If the user filters dont return any result it would either be the case format is wrong or there really isnt a result for the requested filters. Additionally, the user will need to manually clear out the filters to reset it.These are some of he drawbacks of the webpage as it currently stands.
+2. To note, the filter is case sentive. The data fields are mostly in lower case. If the user filters dont return any result it would either be the case format is wrong or there really isnt a result for the requested filters. Additionally, the user will need to manually clear out the filters to reset it. These are some of the drawbacks of the webpage as it currently stands.
 
 3. A few things that I would recommend to further enhance the webpage are:
       
