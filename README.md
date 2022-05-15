@@ -20,13 +20,14 @@
 <img width="1204" alt="Screen Shot 2022-05-15 at 7 42 08 AM" src="https://user-images.githubusercontent.com/98235755/168470996-ef4a593f-413b-41d3-9c4e-388a5668ef11.png">
 
 
-3. To note, the filter is case sentive, which is one of the drawbacks of the webpage. The data fields are mostly in lower case. If the user filters dont return any result it would either be the case format is wrong or there really isnt a result for the requested filters.
-
 
 ## Summary
 
 1. Overall, the page is user-friendly and straightforward
-2. A few things that I would recommend to further enhance the webpage are:
+
+2. To note, the filter is case sentive. The data fields are mostly in lower case. If the user filters dont return any result it would either be the case format is wrong or there really isnt a result for the requested filters. Additionally, the user will need to manually clear out the filters to reset it.These are some of he drawbacks of the webpage as it currently stands.
+
+3. A few things that I would recommend to further enhance the webpage are:
       
       a. Make the filters not be case sensitive
       
